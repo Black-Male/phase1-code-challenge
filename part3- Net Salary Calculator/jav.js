@@ -1,5 +1,5 @@
 function click() {
-    prompt ("clicked?")
+    // links text spots and html
     let input = document.querySelector("#input")
     let payee = document.querySelector("#payee")
     let NHIFDeductions = document.querySelector("#NHIF-Deductions")
@@ -7,7 +7,7 @@ function click() {
     let GrossSalary = document.querySelector("#Gross-Salary")
     let NetSalary = document.querySelector("#Net-Salary")
 
-
+    //runs the calculations and returns the values
     NSSFDeductions.outerHTML = input.value*0.6
     let deduction3 = input.value*0.6
     GrossSalary.outerHTML = input.value
