@@ -41,3 +41,10 @@ you can open them from the terminal by entering the folders and opening the html
         open <filename>
 
 or manually by opening the file locations and rightclicking them to open through chrome or a browser of your choosing
+
+# Authors
+This project was contributed to by: 
+- [ George Karanja Jnr karanja ](https://github.com/Black-Male)
+
+# License
+The project is licensed under Apache 2.0.
